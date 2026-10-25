@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 DB_PATH = os.getenv("DB_PATH", "bot.db")
 
-APP_NAME = "KRUTIK CYBER EXPERT API"
+APP_NAME = "RAZA CYBER EXPERT API"
 
 
 def now_iso():
