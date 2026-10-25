@@ -21,7 +21,7 @@ import database
 from api import app as fastapi_app
 
 
-APP_NAME = "KRUTIK CYBER EXPERT API"
+APP_NAME = "RAZA CYBER EXPERT API"
 
 BOT_TOKEN = os.getenv(
     "BOT_TOKEN",
