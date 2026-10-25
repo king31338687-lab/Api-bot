@@ -9,7 +9,7 @@ from fastapi.responses import JSONResponse
 import database
 
 
-APP_NAME = "KRUTIK CYBER EXPERT API"
+APP_NAME = "RAZA CYBER EXPERT API"
 VERSION = "3.0.0"
 
 DATA_DIR = Path(
